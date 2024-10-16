@@ -1,7 +1,7 @@
 ## Hello!
 
 <p>
-<a href="https://www.researchgate.net/profile/Anna-Verbe"><img height="20" src="./icons/researchgate.svg" alt=""/></a>
+<a href="https://www.researchgate.net/profile/Anna-Verbe"><img height="20" src="./icons/ResearchGate_icon" alt=""/></a>
 <a href="https://www.linkedin.com/in/anna-verbe/"><img height="20" src="./icons/linkedin.svg" alt=""/></a>
 <a href="https://orcid.org/0000-0003-3121-0214"><img height="20" src="./icons/orcid.svg" alt=""/></a>
 </p>
