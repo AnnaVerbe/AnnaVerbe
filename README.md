@@ -1,4 +1,5 @@
-## Hello
+## Hello!
+
 <p>
 <a href="https://www.researchgate.net/profile/Anna-Verbe"><img height="20" src="./icons/researchgate.svg" alt=""/></a>
 <a href="https://www.linkedin.com/in/anna-verbe/"><img height="20" src="./icons/linkedin.svg" alt=""/></a>
